@@ -6,18 +6,18 @@ email: mailidleboy@gmail.com
 description: "This is website and it is for learning。"
 keyword: "@idleboy4038, @idleboy, idleboy, Ukiyo, Ukiyo server, Ukiyo server owner"
 url: ""              # your host, for absolute URL
-baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "https://idleboy4038.github.io"                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
 #future: true
 
 # SNS settings
 #RSS: false
-#weibo_username:     huxpro
-#zhihu_username:     huxpro
+#weibo_username: 
+#zhihu_username: 
 github_username:    idleboy4038
 twitter_username:   idleboy4038
-#facebook_username:  huxpro
+#facebook_username: 
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
@@ -31,7 +31,7 @@ twitter_username:   idleboy4038
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","README.zh.md"]
 #anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
 # If you have timezone issue (e.g. #68) in China, uncomment to use this:
-#timezone: CN  
+#timezone: JA
 
 
 
