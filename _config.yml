@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mailidleboy@gmail.com
 description: "This is website and it is for learning。"
 keyword: "@idleboy4038, @idleboy, idleboy, Ukiyo, Ukiyo server, Ukiyo server owner"
-url: "https://idleboy4038.github.io/"              # your host, for absolute URL
+url: ""              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -20,7 +20,8 @@ twitter_username:   idleboy4038
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
 
-
+# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
+#google_analytics:
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
@@ -39,6 +40,8 @@ exclude: ["less","node_modules","Gruntfile.js","package.json","README.md","READM
 # make sure you have this gem installed
 # `$ gem install jekyll-paginate`
 #plugins: [jekyll-paginate]
+gems:
+  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
 
 
 
