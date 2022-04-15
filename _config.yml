@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: mailidleboy@gmail.com
 description: "This is website and it is for learning。"
 keyword: "@idleboy4038, @idleboy, idleboy, Ukiyo, Ukiyo server, Ukiyo server owner"
-url: "https://idleboy4038.github.io"              # your host, for absolute URL
+url: "https://idleboy4038.github.io/"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
