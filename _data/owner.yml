@@ -32,8 +32,8 @@ contacts:
   - github: "idleboy4038"
   - email: "mailidleboy@gmail.com"
   #- linkedin: ""
-  #- twitter: ""
-  #- instagram: ""
+  - twitter: "idleboy4038"
+  - instagram: "am.i.rahul"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
