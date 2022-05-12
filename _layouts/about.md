@@ -2,9 +2,11 @@
 # Mr. Green Jekyll Theme - v1.0.1 (https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme)
 # Copyright (c) 2022 Mr. Green's Workshop https://www.MrGreensWorkshop.com
 # Licensed under MIT
-
 layout: default
+---
+
 # About page
+
 ---
 {%- include multi_lng/get-lng-by-url.liquid -%}
 {%- assign lng = get_lng -%}
@@ -27,7 +29,7 @@ layout: default
         {%- if site.data.conf.others.about.show_email and email %}
           {%- assign _email = email | split: '@' %}
           <p class="email">
-            <a href="javascript:void(0);" onclick="setAddress('{{ _email[0] }}', '{{ _email[1] }}');">
+<a href="javascript:void(0);" onclick="setAddress('{{_email[0] }}', '{{ _email[1] }}');">
               {%- if site.data.conf.others.about.email_icon %}<i class="{{ 'fa-fw ' }}{{ site.data.conf.others.about.email_icon }}"></i>{% endif -%}
               &nbsp;{{ site.data.lang[lng].about.email_title }}
             </a>

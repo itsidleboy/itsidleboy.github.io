@@ -27,7 +27,7 @@ not_found:
 no_translation_tooltip: 訳がありません
 
 navigation:
-  brand_sub_text: Jekyllテーマ
+  #brand_sub_text:
   contact_header: コンタクト
 
 color_scheme_switch_tooltip: 配色
