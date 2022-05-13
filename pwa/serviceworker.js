@@ -1,6 +1,6 @@
 
 // Change this to your repository name
-var GHPATH = '/';
+var GHPATH = 'https://idleboy4038.github.io';
 
 // Choose a different app prefix name
 var APP_PREFIX = 'pwa';
@@ -15,9 +15,10 @@ var VERSION = 'version_00';
 // others to this list
 var URLS = [    
   `${GHPATH}/`,
-  `${GHPATH}/pwa`,
-  `${GHPATH}/assets`,
-  `${GHPATH}/tabs`
+  `${GHPATH}/pwa/`,
+  `${GHPATH}/assets/`,
+  `${GHPATH}/tabs/`
+  `${GHPATH}/ja/`
 ]
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
