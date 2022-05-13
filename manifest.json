@@ -5,7 +5,7 @@
     "name": "Idle Boy",
     "short_name": "Idle Boy",
     "start_url": "https://idleboy4038.github.io/?utm_source=pwa_install",
-    "scope": "https://idleboy4038.github.io",
+    "scope": "https://idleboy4038.github.io/",
     "display": "standalone",
     "background_color": "#191919",
     "theme_color": "#191919",
