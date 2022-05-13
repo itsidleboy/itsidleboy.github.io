@@ -2,6 +2,7 @@
 layout: about
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_about
+title: About
 
 # image for page specific usage
 img: ":about.jpg"
@@ -34,9 +35,11 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+## I am Rahul a.k.a Idle boy
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+> This is my personal site.  I am using this
+> as my portfolio and for some personal use.
+> I am going to display some of my projects and do
+> blogging.  
+> I have never blogged before so I am not good at it
+> i will try my best.

@@ -27,7 +27,7 @@ not_found:
 no_translation_tooltip: 訳がありません
 
 navigation:
-  brand_sub_text: Jekyllテーマ
+  #brand_sub_text: Jekyllテーマ
   contact_header: コンタクト
 
 color_scheme_switch_tooltip: 配色
@@ -130,9 +130,9 @@ home:
   new_posts_title: 新着記事
   new_posts_show_more_button: もっと見る ...
   # you can use $site_brand in line1 and line2 to convert your site.data.owner.brand text
-  top_header_line1: "ようこそ"
+  #top_header_line1: "ようこそ"
   # if commented, top header will be a single line
-  top_header_line2: "$site_brand テーマへ"
+  #top_header_line2: "$site_brand"
 
 # for archives layout
 archives:
@@ -144,7 +144,7 @@ archives:
 about:
   title: 私について
   button_name: 私について
-  sub_title: クールなjekyllテーマ
+  #sub_title: クールなjekyllテーマ
   email_title: メール
 
 # for links layout

@@ -34,9 +34,11 @@ img: ":about.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+## こんにちは!
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+> これは私の個人的なサイトです。私はこれを使用しています
+> 私のポートフォリオとして、そしていくつかの個人的な使用のために。
+> 私は自分のプロジェクトのいくつかを表示し、
+> ブログ。  
+> 私はこれまでブログを書いたことがないので、それが得意ではありません
+> 私は自分のベストを尽くす。

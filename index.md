@@ -19,7 +19,7 @@ img: ":home-heading.jpg"
 # if not specified, date will be used.
 #meta_modify_date: 2022-03-03 12:32:00 +0000
 # check the meta_common_description in _data/lang/[language].yml
-#meta_description: ""
+meta_description: "This is personal website for Idle boy. It is currenty in development phase so there is lots of bug."
 
 # optional
 # if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
@@ -35,9 +35,6 @@ img: ":home-heading.jpg"
 #published: false
 ---
 
-{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+# Welcome
 
-{%- include util/auto-content-generator.liquid -%}
-{{ website_info_text_first }}
-
-{{ website_info_text_second }}
+To my website.
