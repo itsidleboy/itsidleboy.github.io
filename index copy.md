@@ -4,7 +4,7 @@ layout: home
 lng_pair: id_home
 
 # image for page specific usage
-img: ":home-heading.png"
+img: ":home-heading.jpg"
 # publish date (used for seo)
 # if not specified, site.time will be used.
 #date: 2022-03-03 12:32:00 +0000
@@ -35,5 +35,9 @@ img: ":home-heading.png"
 #published: false
 ---
 
-# Hello there
-{:data-align="center"}
+{%- comment -%} Please delete below and place your page content here {%- endcomment -%}
+
+{%- include util/auto-content-generator.liquid -%}
+{{ website_info_text_first }}
+
+{{ website_info_text_second }}
