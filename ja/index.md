@@ -19,7 +19,7 @@ img: ":home-heading.jpg"
 # if not specified, date will be used.
 #meta_modify_date: 2022-03-03 12:32:00 +0000
 # check the meta_common_description in _data/lang/[language].yml
-meta_description: "これはIdleboyの個人ウェブサイトです。 現在開発段階にあるため、多くのバグがあります。"
+meta_description: これはIdleboyの個人ウェブサイトです。 現在開発段階にあるため、多くのバグがあります。
 
 # optional
 # if you enabled image_viewer_posts you don't need to enable this. This is only if image_viewer_posts = false
