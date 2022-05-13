@@ -56,6 +56,11 @@
   <meta name="description" content="{{ meta_desc | truncate: 150 }}">
   <meta name="robots" content="index, follow">
 
+
+  {% feed_meta %}
+    {% seo %}
+
+
   {%- if site.data.conf.main.meta.twitter_card %}
     {%- include default/header/meta-twitter.html %}
   {%- endif -%}

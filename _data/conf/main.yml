@@ -43,7 +43,7 @@ html_lng_with_country_code: true
 language_switch_hover_effect: "hover-effect"
 
 # this enables top nav language switch
-language_switch_top_nav: true
+language_switch_top_nav: false
 
 # replace text with owner.brand
 brand_replace: "$site_brand"
@@ -320,18 +320,18 @@ cookie_consent:
       no_check_box: true
     analytics:
       group: [analytics_storage]
-      value: "true"
+      value: "granted"
     preferences:
       group: [functionality_storage, personalization_storage]
       value: "denied"
     advertising:
       group: [ad_storage]
-      value: "denied"
+      value: "granted"
   groups_switches_and_values:
     # set values true or false or hide
     analytics: true
     preferences: false
-    advertising: false
+    advertising: true
   bar_buttons:
     # button order and options, for deleting buttons set order to zero
     accept: [3, btn-priority]

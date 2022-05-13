@@ -29,11 +29,11 @@ creative_commons:
 # the order of the items will be shown as here.
 # comment to remove any contact item
 contacts:
-  - github: "idleboy4038"
-  - email: "mailidleboy@gmail.com"
+  #- github: "idleboy"
+  #- email: "mailidleboy@gmail.com"
   #- linkedin: ""
-  - twitter: "idleboy4038"
-  - instagram: "am.i.rahul"
+  #- twitter: "idleboy4038"
+  #- instagram: "am.i.rahul"
   #- youtube: ""
   #- facebook: ""
 # to add more, check the _data/const/contact.yml file
