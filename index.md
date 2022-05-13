@@ -10,14 +10,14 @@ img: ":home-heading.jpg"
 #date: 2022-03-03 12:32:00 +0000
 
 # for override items in _data/lang/[language].yml
-#title: My title
+title: Home
 #button_name: "My button"
 # for override side_and_top_nav_buttons in _data/conf/main.yml
 #icon: "fa fa-bath"
 
 # seo
 # if not specified, date will be used.
-#meta_modify_date: 2022-03-03 12:32:00 +0000
+meta_modify_date: 2022-05-13 03:09:00 +0000
 # check the meta_common_description in _data/lang/[language].yml
 meta_description: "This is personal website for Idle boy. It is currenty in development phase so there is lots of bug."
 
