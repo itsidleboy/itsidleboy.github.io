@@ -11,12 +11,12 @@
     "theme_color": "#191919",
     "icons": [
       {
-        "src": "https://idleboy4038.github.io/assets/img/favicons/favicon-16x16",
+        "src": "https://idleboy4038.github.io/assets/img/favicons/favicon-16x16.png",
         "type": "image/png",
         "sizes": "16x16"
       },
       {
-        "src": "https://idleboy4038.github.io/assets/img/favicons/favicon-32x32",
+        "src": "https://idleboy4038.github.io/assets/img/favicons/favicon-32x32.png",
         "type": "image/png",
         "sizes": "32x32"
       },
