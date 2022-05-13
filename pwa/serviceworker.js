@@ -1,6 +1,6 @@
 
 // Change this to your repository name
-var GHPATH = '/';
+var GHPATH = 'https://idleboy4038.github.io';
 
 // Choose a different app prefix name
 var APP_PREFIX = 'idpwa';
