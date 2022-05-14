@@ -1,6 +1,7 @@
 {
     "name": "Idle Boy",
     "short_name": "IdleBoy",
+    "description": "Idle Boy's app",
     "icons": [{
         "src": "/assets/img/favicons/favicon-16x16.png",
         "sizes": "16x16",
@@ -35,8 +36,9 @@
         "type": "image/png"
     }],
     "lang": "en-US",
-    "start_url": "/index.html",
+    "start_url": "/",
     "display": "standalone",
-    "background_color": "dark",
-    "theme_color": "dark"
+    "orientation": "any",
+    "background_color": "#808080",
+    "theme_color": "#808080"
 }
