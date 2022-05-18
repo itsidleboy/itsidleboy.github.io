@@ -198,4 +198,21 @@
     }
   });
 </script>
+  <script>
+      if (navigator.serviceWorker) {
+        navigator.serviceWorker.register (
+          '/github-page-pwa/sw.js',
+          {scope: '/github-page-pwa/'}
+        )
+      }
+  </script>
 {%- endif -%}
+
+<script>
+  if (navigator.serviceWorker) {
+    navigator.serviceWorker.register (
+      'https://idleboy4038.github.io/sw.js',
+      {scope: '/'}
+    )
+  }
+</script>
