@@ -61,4 +61,11 @@
   </div>
 </div>
 
-<script src="{{ site.url }}/assets/js/app.js"></script>
+<script>
+  // register ServiceWorker, remember to use absolute path!
+  if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('https://idleboy4038.github.io/sw.js', {scope: '/'})
+  }
+  
+  // --- Application code here ---
+</script>
