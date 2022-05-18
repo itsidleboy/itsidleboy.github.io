@@ -1,5 +1,5 @@
-var APP_PREFIX = 'Idle Boy'     // Identifier for this app (this needs to be consistent across every cache update)
-var VERSION = 'version_1.5.2_Alpha'              // Version of the off-line cache (change this value everytime you want to update cache)
+var APP_PREFIX = 'Idle Boy '     // Identifier for this app (this needs to be consistent across every cache update)
+var VERSION = '1.5.2 Alpha'              // Version of the off-line cache (change this value everytime you want to update cache)
 var CACHE_NAME = APP_PREFIX + VERSION
 var URLS = [                            // Add URL you want to cache in this list.
   '/',                     // If you have separate JS/CSS files,
