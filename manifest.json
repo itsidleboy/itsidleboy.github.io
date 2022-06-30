@@ -2,6 +2,8 @@
     "name": "Idle Boy",
     "short_name": "IdleBoy",
     "description": "Idle Boy's app",
+    "start_url": "https://idleboy4038.github.io"
+
     "icons": [{
         "src": "/assets/img/favicons/favicon-16x16.png",
         "sizes": "16x16",
